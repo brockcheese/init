@@ -1,0 +1,4 @@
+echo "type a user my guy"
+read user
+
+sudo userdel $user
